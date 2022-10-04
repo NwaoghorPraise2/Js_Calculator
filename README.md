@@ -24,4 +24,4 @@
 - Insatall liveserver.
 - Open with live server.
 
-@Nwaoghor Praise C. for PraiseIntels Cooperation.
+@Nwaoghor Praise.
